@@ -1,0 +1,27 @@
+[
+	{
+		"title": "Zapatillas",
+		"price": 200,
+		"thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6wGgpw5NSkdJpMxARjjvgAAAAA%26pid%3DApi&f=1",
+		"id": 1
+	},
+	{
+		"title": "Remera",
+		"price": 100,
+		"thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6wGgpw5NSkdJpMxARjjvgAAAAA%26pid%3DApi&f=1",
+		"id": 2
+	},
+	{
+		"title": "Pantalon",
+		"price": 500,
+		"thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6wGgpw5NSkdJpMxARjjvgAAAAA%26pid%3DApi&f=1",
+		"id": 3
+	},
+	{
+		"title": "Camisa",
+		"price": 1000,
+		"thumbnail": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.6wGgpw5NSkdJpMxARjjvgAAAAA%26pid%3DApi&f=1",
+		"id": 4
+	}
+	
+]
