@@ -11,7 +11,7 @@ const PORT = 8080;
 const server = app.listen(PORT, ()=> {
     console.log(`Listening on PORT ${PORT}`);
 })
-//Agregamos las rutas para que acceda nuestro servidor y el request, resolve en c/u de ellas
+//Agregamos las rutas para que acceda nuestro servidor y el request-resolve en c/u de ellas
 app.get('/', (req, res)=> {
     res.send("Bienvenido a Backend"); 
 });
@@ -28,6 +28,7 @@ app.get('/productosRandom', async (req, res)=> {
     const idProducts = await products.map((product) => product.id);
     const randomProduct = Math.floor(Math.random() * products.length); 
 
+    
     if(idProducts.includes(randomProduct)){
         res.send(products.find((product) => product.id === randomProduct));
     }else{
