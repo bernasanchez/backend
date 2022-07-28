@@ -1,0 +1,14 @@
+[
+	{
+		"title": "zapas",
+		"price": "1000",
+		"image": "1659044215502-zapatillas_nike_lona_mujer-336vyz.jpg",
+		"id": 1
+	},
+	{
+		"title": "gorra",
+		"price": "400",
+		"image": "1659044749924-gorra-chelsea.jpg",
+		"id": 2
+	}
+]
